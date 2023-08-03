@@ -7,7 +7,7 @@
 💞️ I'm looking to collaborate on open-source projects and contribute to the developer community. I believe in the power of collaboration and how it can lead to meaningful creations.
 
 🚀 Programming Languages and Tools:
-![Node.js](https://example.com/path/to/nodejs-image.png)
+![]([https://example.com/path/to/nodejs-image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png))
 ![JavaScript](https://example.com/path/to/javascript-image.png)
 ![HTML](https://example.com/path/to/html-image.png)
 ![CSS](https://example.com/path/to/css-image.png)
