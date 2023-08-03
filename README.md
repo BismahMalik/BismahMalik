@@ -1,4 +1,4 @@
-👋 Hi, I'm Bismah Malik!
+# 👋 Hi, I'm Bismah Malik!
 
 👀 I'm interested in software development, web technologies, and exploring innovative projects that push the boundaries of technology.
 
