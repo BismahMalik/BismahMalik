@@ -5,12 +5,12 @@
 
 💞️ I'm looking to collaborate on open-source projects and contribute to the developer community. I believe in the power of collaboration and how it can lead to meaningful creations.
 
-🚀 Programming Languages and Tools:
+# **🚀 Programming Languages and Tools:**
 
 🔧 Node.js | 🌐 JavaScript | 🎨 HTML | 🎨 CSS | 🅱️ Bootstrap | ⚙️ Express.js | 🗃️ MySQL | 🍃 MongoDB | 🐘 PostgreSQL | 🎨 Figma | 🐘 PHP | ➕ C++
 
 
-📫 How to reach me:
+# **📫 How to reach me:**
 
 🔗 LinkedIn: https://www.linkedin.com/in/bismah-m-a27a2b157
 
