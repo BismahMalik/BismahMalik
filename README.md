@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bismah Malik</h1>
+<h1 align="center">👋 Hi, I'm Bismah Malik</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 - 🔭 I’m currently pursing my degree in Software Engineering at Air University
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bismahmalikportfolio.vercel.app/](https://bismahmalikportfolio.vercel.app/)
 
-- 💬 Ask me about **Html, CSS, Bootstrap, Node, Express ,**
+- 💬 Ask me about **Html, CSS, Bootstrap, Node, Express **
 
 - 📫 How to reach me **bismahmalik22@gmail.com**
 
