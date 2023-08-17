@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript frameworks**
 
-- 👨‍💻 All of my projects are available at [https://bismahmalik.vercel.app/]](https://bismahmalik.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bismahmalik.vercel.app/](https://bismahmalik.vercel.app/)
 
 - 💬 Ask me about **Html, CSS, Bootstrap, Node, Express **
 
