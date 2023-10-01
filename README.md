@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bismahmalik.vercel.app/](https://bismahmalik.vercel.app/)
 
-- 💬 Ask me about **Html, CSS, Bootstrap, Node, Express **
+- 💬 Ask me about **Html5, CSS3, Bootstrap, Node, Express**
 
 - 📫 How to reach me **bismahmalik22@gmail.com**
 
