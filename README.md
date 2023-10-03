@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bismah Malik</h1>
-<h3 align="center">Software Engineer '25 | MERN STACK Developer | Software Analyst </h3>
+<h3 align="center">Software Engineer '25 | MERN Stack Developer | Software Analyst </h3>
 
 - 🔭 I’m currently pursing my degree in Software Engineering at Air University
 
