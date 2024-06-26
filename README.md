@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bismah Malik</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bismahmalik&label=Profile%20views&color=0e75b6&style=flat" alt="bismahmalik" /> </p>
-
 - 🔭 I’m currently working on **remote sensing monitoring system**
 
 - 🌱 I’m currently learning **Deep Learning**
